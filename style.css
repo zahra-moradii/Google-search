@@ -1,0 +1,55 @@
+body{
+    background-color: #202124;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.mt-7{
+    margin-top: 2.5rem;
+}
+
+.mt-6 {
+    margin-top: 6.2rem;
+}
+
+.col-c{
+    width: 585px;
+}
+
+.form-control{
+    border-color: #575a5e;
+    box-shadow: none;
+}
+
+.form-control:focus{
+    color: rgb(252, 252, 252);
+    border-color: #575a5e;
+    box-shadow: none;
+}
+
+.btn{
+    border-color: none;
+    box-shadow: none;
+}
+
+.btn:hover{
+    color: rgb(252, 252, 252);
+    border-color: #575a5e;
+    box-shadow: none;
+}
+
+.py-c{
+    height: 47px;
+}
+
+.ml-c{
+    margin-left: 720px;
+}
+
+.hvr:hover{
+    background-color: #8686862d;
+    border-radius: 50px;
+}
